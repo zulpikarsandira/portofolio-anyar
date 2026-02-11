@@ -3012,10 +3012,10 @@ p {
 
 .home-header-about-text {
   color: var(--color-light);
-  text-align: justify;
+  text-align: left;
   letter-spacing: -.04em;
   font-weight: 300;
-  line-height: .9;
+  line-height: 1.1;
   font-size: calc(var(--title-size) * .5);
   max-width: 19.5em;
 }
